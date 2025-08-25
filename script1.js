@@ -14,7 +14,7 @@ const projects = [
     },
     {
         
-        image: "images/Gallary.png",
+        image: "images/gallary.png",
         codeLink: "https://github.com/kaur2804/Gallery",
         appLink: "https://kaur2804.github.io/Gallery/"
     },
@@ -91,4 +91,5 @@ const projects = [
     function toggleMenu() {
         const navbar = document.querySelector('.navbar');
         navbar.classList.toggle('active');
+
     }
