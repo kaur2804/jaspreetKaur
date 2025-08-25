@@ -93,3 +93,4 @@ const projects = [
         navbar.classList.toggle('active');
 
     }
+
